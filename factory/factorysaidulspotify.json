@@ -1,0 +1,9 @@
+{
+	"name": "factorysaidulspotify",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c51c7e4-3094-42f6-b4bd-a73e1ca85a5f",
+		"tenantId": "6e663bbf-0fd0-442e-951c-2fba3ac86083"
+	}
+}
